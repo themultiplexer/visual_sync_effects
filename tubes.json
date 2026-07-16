@@ -289,6 +289,10 @@
         "index": 5,
         "name": "Same",
         "tubes": {
+            "24a1603a28d4": {
+                "delay": 0,
+                "group": 2
+            },
             "24a1603a2be9": {
                 "delay": 0,
                 "group": 0
@@ -301,15 +305,19 @@
                 "delay": 0,
                 "group": 0
             },
-            "24a1603b87a7": {
+            "24a1603acfd8": {
                 "delay": 0,
-                "group": 0
+                "group": 2
+            },
+            "24a1603b7184": {
+                "delay": 0,
+                "group": 2
+            },
+            "24a1603b86a2": {
+                "delay": 0,
+                "group": 2
             },
             "24a1603d4856": {
-                "delay": 0,
-                "group": 0
-            },
-            "24a1603d864a": {
                 "delay": 0,
                 "group": 0
             },
@@ -321,17 +329,21 @@
                 "delay": 0,
                 "group": 0
             },
-            "3c610514165c": {
+            "24a1603d8d2b": {
                 "delay": 0,
-                "group": 0
+                "group": 2
             },
-            "60019496c44a": {
+            "3c8a1f435a91": {
                 "delay": 0,
-                "group": 0
+                "group": 1
             },
             "8cce4edeb3c7": {
                 "delay": 0,
                 "group": 0
+            },
+            "8cce4ee1c707": {
+                "delay": 0,
+                "group": 2
             },
             "8cce4ee1df2e": {
                 "delay": 0,
@@ -340,6 +352,18 @@
             "8cce4ee36bed": {
                 "delay": 0,
                 "group": 0
+            },
+            "e08cfe33c9dc": {
+                "delay": 0,
+                "group": 0
+            },
+            "fcf5c4b340f4": {
+                "delay": 0,
+                "group": 1
+            },
+            "fcf5c4bec62c": {
+                "delay": 0,
+                "group": 1
             }
         }
     },
@@ -687,66 +711,10 @@
         ],
         "id": 12,
         "index": 12,
-        "name": "Circle",
-        "tubes": {
-            "24a1603a2be9": {
-                "delay": 150,
-                "group": 0
-            },
-            "24a1603aa2dc": {
-                "delay": 210,
-                "group": 0
-            },
-            "24a1603acf56": {
-                "delay": 30,
-                "group": 0
-            },
-            "24a1603d4856": {
-                "delay": 60,
-                "group": 0
-            },
-            "24a1603d864a": {
-                "delay": 0,
-                "group": 0
-            },
-            "24a1603d872f": {
-                "delay": 0,
-                "group": 0
-            },
-            "24a1603d8b0a": {
-                "delay": 90,
-                "group": 0
-            },
-            "60019496c44a": {
-                "delay": 0,
-                "group": 0
-            },
-            "8cce4edeb3c7": {
-                "delay": 180,
-                "group": 0
-            },
-            "8cce4ee1df2e": {
-                "delay": 120,
-                "group": 0
-            },
-            "8cce4ee36bed": {
-                "delay": 0,
-                "group": 0
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "id": 13,
-        "index": 13,
-        "name": "T&S Delay",
+        "name": "T&S Fast",
         "tubes": {
             "24a1603a28d4": {
-                "delay": 100,
+                "delay": 0,
                 "group": 2
             },
             "24a1603a2be9": {
@@ -762,7 +730,7 @@
                 "group": 1
             },
             "24a1603acfd8": {
-                "delay": 0,
+                "delay": 60,
                 "group": 2
             },
             "24a1603b7184": {
@@ -786,7 +754,7 @@
                 "group": 1
             },
             "24a1603d8d2b": {
-                "delay": 200,
+                "delay": 30,
                 "group": 2
             },
             "3c8a1f435a91": {
@@ -808,6 +776,98 @@
             "8cce4ee36bed": {
                 "delay": 0,
                 "group": 1
+            },
+            "e08cfe33c9dc": {
+                "delay": 0,
+                "group": 0
+            },
+            "fcf5c4b340f4": {
+                "delay": 0,
+                "group": 1
+            },
+            "fcf5c4bec62c": {
+                "delay": 0,
+                "group": 1
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "id": 13,
+        "index": 13,
+        "name": "T&S Delay",
+        "tubes": {
+            "24a1603a28d4": {
+                "delay": 0,
+                "group": 2
+            },
+            "24a1603a2be9": {
+                "delay": 40,
+                "group": 1
+            },
+            "24a1603aa2dc": {
+                "delay": 120,
+                "group": 1
+            },
+            "24a1603acf56": {
+                "delay": 40,
+                "group": 1
+            },
+            "24a1603acfd8": {
+                "delay": 250,
+                "group": 2
+            },
+            "24a1603b7184": {
+                "delay": 0,
+                "group": 2
+            },
+            "24a1603b86a2": {
+                "delay": 80,
+                "group": 2
+            },
+            "24a1603d4856": {
+                "delay": 80,
+                "group": 1
+            },
+            "24a1603d872f": {
+                "delay": 0,
+                "group": 1
+            },
+            "24a1603d8b0a": {
+                "delay": 120,
+                "group": 1
+            },
+            "24a1603d8d2b": {
+                "delay": 75,
+                "group": 2
+            },
+            "3c8a1f435a91": {
+                "delay": 0,
+                "group": 1
+            },
+            "8cce4edeb3c7": {
+                "delay": 80,
+                "group": 1
+            },
+            "8cce4ee1c707": {
+                "delay": 100,
+                "group": 2
+            },
+            "8cce4ee1df2e": {
+                "delay": 0,
+                "group": 1
+            },
+            "8cce4ee36bed": {
+                "delay": 0,
+                "group": 1
+            },
+            "e08cfe33c9dc": {
+                "delay": 0,
+                "group": 0
             },
             "fcf5c4b340f4": {
                 "delay": 0,
