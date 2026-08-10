@@ -5,6 +5,9 @@
             0,
             255
         ],
+        "color_mode": -707086304,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 6,
@@ -16,7 +19,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 65,
+            "led_mode": 0,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -33,8 +36,9 @@
             0,
             0,
             0,
-            85
+            0
         ],
+        "group_mode": 21881,
         "id": 0,
         "name": "Sparkle",
         "tubepresets": {
@@ -100,6 +104,9 @@
             255,
             0
         ],
+        "color_mode": 35918337,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 6,
@@ -128,8 +135,9 @@
             0,
             0,
             0,
-            0
+            254
         ],
+        "group_mode": 16933466,
         "id": 1,
         "name": "[AR] Sparkle",
         "tubepresets": {
@@ -203,6 +211,9 @@
             19,
             255
         ],
+        "color_mode": -708874720,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 6,
@@ -214,7 +225,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 0,
+            "led_mode": 94,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -231,8 +242,9 @@
             0,
             0,
             0,
-            0
+            97
         ],
+        "group_mode": 21881,
         "id": 2,
         "name": "[AR] NEON!",
         "tubepresets": {
@@ -298,6 +310,9 @@
             252,
             211
         ],
+        "color_mode": 35918337,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 12,
@@ -309,7 +324,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 0,
+            "led_mode": 254,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -326,8 +341,9 @@
             0,
             0,
             0,
-            0
+            254
         ],
+        "group_mode": 16933466,
         "id": 3,
         "name": "Glitter",
         "tubepresets": {
@@ -393,6 +409,9 @@
             0,
             0
         ],
+        "color_mode": 33620737,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 7,
@@ -404,7 +423,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 0,
+            "led_mode": 70,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -421,8 +440,9 @@
             0,
             0,
             0,
-            0
+            71
         ],
+        "group_mode": 66569,
         "id": 4,
         "name": "Organic Fire",
         "tubepresets": {
@@ -488,6 +508,9 @@
             0,
             0
         ],
+        "color_mode": -709195616,
+        "colors": [
+        ],
         "config1": {
             "brightness": 128,
             "led_mode": 7,
@@ -499,7 +522,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 0,
+            "led_mode": 182,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -516,8 +539,9 @@
             0,
             0,
             0,
-            0
+            185
         ],
+        "group_mode": 21881,
         "id": 5,
         "name": "Same Fire",
         "tubepresets": {
@@ -583,6 +607,9 @@
             85,
             0
         ],
+        "color_mode": 2555965,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 7,
@@ -613,6 +640,7 @@
             0,
             0
         ],
+        "group_mode": 7471205,
         "id": 6,
         "name": "Reversed Fire",
         "tubepresets": {
@@ -678,6 +706,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 7,
@@ -708,6 +739,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 7,
         "name": "[AR] Fire",
         "tubepresets": {
@@ -773,6 +805,9 @@
             217,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 218,
             "led_mode": 19,
@@ -803,6 +838,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 8,
         "name": "Juggle",
         "tubepresets": {
@@ -868,6 +904,9 @@
             255,
             74
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 8,
@@ -898,6 +937,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 9,
         "name": "Sine Bounce",
         "tubepresets": {
@@ -963,6 +1003,9 @@
             255,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 144,
             "led_mode": 15,
@@ -993,6 +1036,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 10,
         "name": "Double Bounce",
         "tubepresets": {
@@ -1013,6 +1057,9 @@
             195,
             255,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 210,
@@ -1044,6 +1091,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 11,
         "name": "[AR] Faded Bounce",
         "tubepresets": {
@@ -1064,6 +1112,9 @@
             0,
             255,
             162
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 194,
@@ -1095,6 +1146,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 12,
         "name": "Crush",
         "tubepresets": {
@@ -1160,6 +1212,9 @@
             0,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 144,
             "led_mode": 18,
@@ -1190,6 +1245,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 13,
         "name": "[AR] Trippy Flash",
         "tubepresets": {
@@ -1255,6 +1311,9 @@
             0,
             144
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 13,
@@ -1285,6 +1344,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 14,
         "name": "Short Tunnel",
         "tubepresets": {
@@ -1305,6 +1365,9 @@
             255,
             255,
             255
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 210,
@@ -1336,6 +1399,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 15,
         "name": "Strobe",
         "tubepresets": {
@@ -1401,6 +1465,9 @@
             212,
             213
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 248,
             "led_mode": 0,
@@ -1431,6 +1498,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 16,
         "name": "[AR] Flash on Beat",
         "tubepresets": {
@@ -1451,6 +1519,9 @@
             250,
             255,
             148
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 208,
@@ -1482,6 +1553,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 17,
         "name": "[AR] Sync Flash",
         "tubepresets": {
@@ -1547,6 +1619,9 @@
             0,
             4
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 7,
@@ -1577,6 +1652,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 18,
         "name": "[AR] Fire",
         "tubepresets": {
@@ -1642,6 +1718,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 12,
@@ -1672,6 +1751,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 19,
         "name": "[AR] Fading Glitter",
         "tubepresets": {
@@ -1692,6 +1772,9 @@
             0,
             242,
             255
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 82,
@@ -1723,6 +1806,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 20,
         "name": "[AR] Slow Faded Sparkle",
         "tubepresets": {
@@ -1788,6 +1872,9 @@
             0,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 12,
@@ -1818,6 +1905,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 21,
         "name": "Jitter",
         "tubepresets": {
@@ -1838,6 +1926,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 50,
@@ -1869,6 +1960,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 22,
         "name": "Delay Bounce",
         "tubepresets": {
@@ -1934,6 +2026,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 8,
@@ -1964,6 +2059,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 23,
         "name": "Slow Bounce",
         "tubepresets": {
@@ -1984,6 +2080,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 255,
@@ -2015,6 +2114,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 24,
         "name": "Slow Tunnel",
         "tubepresets": {
@@ -2035,6 +2135,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 255,
@@ -2066,6 +2169,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 25,
         "name": "[AR] Sparkle",
         "tubepresets": {
@@ -2086,6 +2190,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 255,
@@ -2117,6 +2224,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 26,
         "name": "Slow Sparkle",
         "tubepresets": {
@@ -2137,6 +2245,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 80,
@@ -2168,6 +2279,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 27,
         "name": "Wipe",
         "tubepresets": {
@@ -2233,6 +2345,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 12,
@@ -2263,6 +2378,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 28,
         "name": "Pseudo",
         "tubepresets": {
@@ -2328,6 +2444,9 @@
             255,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 11,
@@ -2358,6 +2477,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 29,
         "name": "Bright color strobe",
         "tubepresets": {
@@ -2378,6 +2498,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 184,
@@ -2409,6 +2532,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 30,
         "name": "[AR] Fading Groups",
         "tubepresets": {
@@ -2429,6 +2553,9 @@
             255,
             170,
             255
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 255,
@@ -2460,6 +2587,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 31,
         "name": "Fast Glitter",
         "tubepresets": {
@@ -2525,6 +2653,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 6,
@@ -2555,6 +2686,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 32,
         "name": "123",
         "tubepresets": {
@@ -2620,6 +2752,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 144,
             "led_mode": 3,
@@ -2650,6 +2785,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 33,
         "name": "Limiter",
         "tubepresets": {
@@ -2723,6 +2859,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 109,
             "led_mode": 17,
@@ -2753,6 +2892,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 34,
         "name": "Yag",
         "tubepresets": {
@@ -2826,6 +2966,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 13,
@@ -2856,6 +2999,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 35,
         "name": "Trippy",
         "tubepresets": {
@@ -2929,6 +3073,9 @@
             255,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 80,
             "led_mode": 87,
@@ -2959,6 +3106,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 36,
         "name": "Morph",
         "tubepresets": {
@@ -3024,6 +3172,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 8,
@@ -3054,6 +3205,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 37,
         "name": "Fast Bounce",
         "tubepresets": {
@@ -3074,6 +3226,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 210,
@@ -3105,6 +3260,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 38,
         "name": "Fast color tunnel",
         "tubepresets": {
@@ -3125,6 +3281,9 @@
             255,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 255,
@@ -3156,6 +3315,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 39,
         "name": "[AR] Sparkle+",
         "tubepresets": {
@@ -3221,6 +3381,9 @@
             170,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 90,
@@ -3251,6 +3414,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 40,
         "name": "Bouncy",
         "tubepresets": {
@@ -3316,6 +3480,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 66,
@@ -3346,6 +3513,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 41,
         "name": "FW",
         "tubepresets": {
@@ -3411,6 +3579,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 78,
@@ -3441,6 +3612,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 42,
         "name": "ICU",
         "tubepresets": {
@@ -3514,6 +3686,9 @@
             238,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 83,
@@ -3544,6 +3719,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 43,
         "name": "Fireworks",
         "tubepresets": {
@@ -3617,6 +3793,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 86,
@@ -3647,6 +3826,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 44,
         "name": "Heartbeat",
         "tubepresets": {
@@ -3720,6 +3900,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 110,
             "led_mode": 74,
@@ -3750,6 +3933,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 45,
         "name": "CHase",
         "tubepresets": {
@@ -3815,6 +3999,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 138,
             "led_mode": 8,
@@ -3845,6 +4032,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 46,
         "name": "Bounce creative",
         "tubepresets": {
@@ -3910,6 +4098,9 @@
             255,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 13,
@@ -3940,6 +4131,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 47,
         "name": "[AR] Fast Color Tunnel",
         "tubepresets": {
@@ -3960,6 +4152,9 @@
             255,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 234,
@@ -3991,6 +4186,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 48,
         "name": "AR Sparkle 1",
         "tubepresets": {
@@ -4056,6 +4252,9 @@
             38,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 128,
             "led_mode": 6,
@@ -4086,6 +4285,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 49,
         "name": "AR Sparkle 2",
         "tubepresets": {
@@ -4151,6 +4351,9 @@
             255,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 252,
             "led_mode": 12,
@@ -4181,6 +4384,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 50,
         "name": "Glitter",
         "tubepresets": {
@@ -4246,6 +4450,9 @@
             170,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 124,
             "led_mode": 6,
@@ -4276,6 +4483,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 51,
         "name": "AR Sparkle 3",
         "tubepresets": {
@@ -4341,6 +4549,9 @@
             170,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 144,
             "led_mode": 18,
@@ -4371,6 +4582,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 52,
         "name": "AR Trippy Flash",
         "tubepresets": {
@@ -4436,6 +4648,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -4466,6 +4681,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 53,
         "name": "<none>",
         "tubepresets": {
@@ -4487,6 +4703,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -4517,6 +4736,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 54,
         "name": "<none>",
         "tubepresets": {
@@ -4538,14 +4758,17 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 0,
+            "led_mode": 0,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 5,
+            "parameter2": 5,
+            "parameter3": 100,
+            "speed_factor": 5
         },
         "config2": {
             "brightness": 0,
@@ -4557,29 +4780,74 @@
             "speed_factor": 0
         },
         "dmx_config": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            240,
+            147,
+            249,
+            218,
+            167,
+            85,
             0,
             0,
             0,
             0
         ],
+        "group_mode": 0,
         "id": 55,
-        "name": "<none>",
+        "name": "none",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -4588,6 +4856,9 @@
             0,
             0,
             0
+        ],
+        "color_mode": 0,
+        "colors": [
         ],
         "config1": {
             "brightness": 255,
@@ -4619,6 +4890,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 56,
         "name": "delays",
         "tubepresets": {
@@ -4684,6 +4956,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 86,
@@ -4714,6 +4989,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 57,
         "name": "Heartbeat",
         "tubepresets": {
@@ -4779,6 +5055,9 @@
             255,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 84,
             "led_mode": 8,
@@ -4809,6 +5088,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 58,
         "name": "pingpong",
         "tubepresets": {
@@ -4874,6 +5154,9 @@
             0,
             127
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 40,
             "led_mode": 23,
@@ -4904,6 +5187,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 59,
         "name": "wipe",
         "tubepresets": {
@@ -4969,6 +5253,9 @@
             255,
             255
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 126,
             "led_mode": 10,
@@ -4999,6 +5286,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 60,
         "name": "Stobe",
         "tubepresets": {
@@ -5064,6 +5352,9 @@
             0,
             127
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 42,
             "led_mode": 0,
@@ -5094,6 +5385,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 61,
         "name": "AR Flash beat",
         "tubepresets": {
@@ -5159,6 +5451,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 210,
             "led_mode": 6,
@@ -5189,6 +5484,7 @@
             51,
             0
         ],
+        "group_mode": 0,
         "id": 62,
         "name": "didit",
         "tubepresets": {
@@ -5254,6 +5550,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 255,
             "led_mode": 8,
@@ -5284,6 +5583,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 63,
         "name": "asd",
         "tubepresets": {
@@ -5349,14 +5649,41 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+            [
+                0.800000011920929,
+                1
+            ],
+            [
+                0.20000000298023224,
+                1
+            ],
+            [
+                0.800000011920929,
+                1
+            ],
+            [
+                0.20000000298023224,
+                1
+            ],
+            [
+                0.800000011920929,
+                1
+            ],
+            [
+                0.20000000298023224,
+                1
+            ]
+        ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 0,
+            "led_mode": 0,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 5,
+            "parameter2": 5,
+            "parameter3": 100,
+            "speed_factor": 5
         },
         "config2": {
             "brightness": 0,
@@ -5368,29 +5695,74 @@
             "speed_factor": 0
         },
         "dmx_config": [
+            170,
+            246,
+            66,
+            130,
+            124,
+            85,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            160,
             0
         ],
+        "group_mode": 0,
         "id": 64,
-        "name": "<none>",
+        "name": "xxxx",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -5400,6 +5772,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5430,6 +5805,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 65,
         "name": "<none>",
         "tubepresets": {
@@ -5451,6 +5827,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5481,6 +5860,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 66,
         "name": "<none>",
         "tubepresets": {
@@ -5502,6 +5882,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5532,6 +5915,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 67,
         "name": "<none>",
         "tubepresets": {
@@ -5553,6 +5937,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5583,6 +5970,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 68,
         "name": "<none>",
         "tubepresets": {
@@ -5604,6 +5992,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5634,6 +6025,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 69,
         "name": "<none>",
         "tubepresets": {
@@ -5655,6 +6047,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5685,6 +6080,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 70,
         "name": "<none>",
         "tubepresets": {
@@ -5706,6 +6102,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5736,6 +6135,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 71,
         "name": "<none>",
         "tubepresets": {
@@ -5757,6 +6157,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5787,6 +6190,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 72,
         "name": "<none>",
         "tubepresets": {
@@ -5808,6 +6212,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5838,6 +6245,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 73,
         "name": "<none>",
         "tubepresets": {
@@ -5859,6 +6267,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5889,6 +6300,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 74,
         "name": "<none>",
         "tubepresets": {
@@ -5910,6 +6322,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5940,6 +6355,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 75,
         "name": "<none>",
         "tubepresets": {
@@ -5961,6 +6377,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -5991,6 +6410,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 76,
         "name": "<none>",
         "tubepresets": {
@@ -6012,6 +6432,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6042,6 +6465,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 77,
         "name": "<none>",
         "tubepresets": {
@@ -6063,6 +6487,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6093,6 +6520,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 78,
         "name": "<none>",
         "tubepresets": {
@@ -6114,6 +6542,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6144,6 +6575,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 79,
         "name": "<none>",
         "tubepresets": {
@@ -6165,6 +6597,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6195,6 +6630,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 80,
         "name": "<none>",
         "tubepresets": {
@@ -6216,6 +6652,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6246,6 +6685,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 81,
         "name": "<none>",
         "tubepresets": {
@@ -6267,6 +6707,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6297,6 +6740,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 82,
         "name": "<none>",
         "tubepresets": {
@@ -6318,6 +6762,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6348,6 +6795,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 83,
         "name": "<none>",
         "tubepresets": {
@@ -6369,6 +6817,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6399,6 +6850,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 84,
         "name": "<none>",
         "tubepresets": {
@@ -6420,6 +6872,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6450,6 +6905,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 85,
         "name": "<none>",
         "tubepresets": {
@@ -6471,6 +6927,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6501,6 +6960,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 86,
         "name": "<none>",
         "tubepresets": {
@@ -6522,6 +6982,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6552,6 +7015,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 87,
         "name": "<none>",
         "tubepresets": {
@@ -6573,6 +7037,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6603,6 +7070,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 88,
         "name": "<none>",
         "tubepresets": {
@@ -6624,6 +7092,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6654,6 +7125,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 89,
         "name": "<none>",
         "tubepresets": {
@@ -6675,6 +7147,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6705,6 +7180,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 90,
         "name": "<none>",
         "tubepresets": {
@@ -6726,6 +7202,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6756,6 +7235,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 91,
         "name": "<none>",
         "tubepresets": {
@@ -6777,6 +7257,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6807,6 +7290,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 92,
         "name": "<none>",
         "tubepresets": {
@@ -6828,6 +7312,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6858,6 +7345,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 93,
         "name": "<none>",
         "tubepresets": {
@@ -6879,6 +7367,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6909,6 +7400,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 94,
         "name": "<none>",
         "tubepresets": {
@@ -6930,6 +7422,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -6960,6 +7455,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 95,
         "name": "<none>",
         "tubepresets": {
@@ -6981,6 +7477,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -7011,6 +7510,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 96,
         "name": "<none>",
         "tubepresets": {
@@ -7032,6 +7532,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -7062,6 +7565,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 97,
         "name": "<none>",
         "tubepresets": {
@@ -7083,6 +7587,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -7113,6 +7620,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 98,
         "name": "<none>",
         "tubepresets": {
@@ -7134,6 +7642,9 @@
             0,
             0
         ],
+        "color_mode": 0,
+        "colors": [
+        ],
         "config1": {
             "brightness": 10,
             "led_mode": 1,
@@ -7164,6 +7675,7 @@
             0,
             0
         ],
+        "group_mode": 0,
         "id": 99,
         "name": "<none>",
         "tubepresets": {
