@@ -5,7 +5,7 @@
             0,
             255
         ],
-        "color_mode": -707086304,
+        "color_mode": 1667510881,
         "colors": [
         ],
         "config1": {
@@ -38,7 +38,7 @@
             0,
             0
         ],
-        "group_mode": 21881,
+        "group_mode": 1630744630,
         "id": 0,
         "name": "Sparkle",
         "tubepresets": {
@@ -104,7 +104,7 @@
             255,
             0
         ],
-        "color_mode": 35918337,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -135,9 +135,9 @@
             0,
             0,
             0,
-            254
+            0
         ],
-        "group_mode": 16933466,
+        "group_mode": 0,
         "id": 1,
         "name": "[AR] Sparkle",
         "tubepresets": {
@@ -211,7 +211,7 @@
             19,
             255
         ],
-        "color_mode": -708874720,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -225,7 +225,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 94,
+            "led_mode": 185,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -242,9 +242,9 @@
             0,
             0,
             0,
-            97
+            0
         ],
-        "group_mode": 21881,
+        "group_mode": 0,
         "id": 2,
         "name": "[AR] NEON!",
         "tubepresets": {
@@ -310,7 +310,7 @@
             252,
             211
         ],
-        "color_mode": 35918337,
+        "color_mode": -787620800,
         "colors": [
         ],
         "config1": {
@@ -324,7 +324,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 254,
+            "led_mode": 249,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -341,9 +341,9 @@
             0,
             0,
             0,
-            254
+            0
         ],
-        "group_mode": 16933466,
+        "group_mode": 22037,
         "id": 3,
         "name": "Glitter",
         "tubepresets": {
@@ -409,7 +409,7 @@
             0,
             0
         ],
-        "color_mode": 33620737,
+        "color_mode": 0,
         "colors": [
         ],
         "config1": {
@@ -423,7 +423,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 70,
+            "led_mode": 89,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -440,9 +440,9 @@
             0,
             0,
             0,
-            71
+            0
         ],
-        "group_mode": 66569,
+        "group_mode": 0,
         "id": 4,
         "name": "Organic Fire",
         "tubepresets": {
@@ -508,7 +508,7 @@
             0,
             0
         ],
-        "color_mode": -709195616,
+        "color_mode": 23,
         "colors": [
         ],
         "config1": {
@@ -522,7 +522,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 182,
+            "led_mode": 174,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -539,9 +539,9 @@
             0,
             0,
             0,
-            185
+            190
         ],
-        "group_mode": 21881,
+        "group_mode": 22037,
         "id": 5,
         "name": "Same Fire",
         "tubepresets": {
@@ -607,7 +607,7 @@
             85,
             0
         ],
-        "color_mode": 2555965,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -621,7 +621,7 @@
         },
         "config2": {
             "brightness": 0,
-            "led_mode": 0,
+            "led_mode": 255,
             "modifiers": 0,
             "parameter1": 0,
             "parameter2": 0,
@@ -638,9 +638,9 @@
             0,
             0,
             0,
-            0
+            255
         ],
-        "group_mode": 7471205,
+        "group_mode": 22037,
         "id": 6,
         "name": "Reversed Fire",
         "tubepresets": {
@@ -4644,21 +4644,21 @@
     },
     {
         "button_color": [
-            0,
-            0,
-            0
+            255,
+            255,
+            255
         ],
         "color_mode": 0,
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "brightness": 234,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 255,
+            "speed_factor": 10
         },
         "config2": {
             "brightness": 0,
@@ -4683,17 +4683,93 @@
         ],
         "group_mode": 0,
         "id": 53,
-        "name": "<none>",
+        "name": "AR Sparkle test",
         "tubepresets": {
             "button_color": [
                 0,
                 0,
                 0
             ],
-            "id": 0,
-            "index": 0,
-            "name": "",
+            "id": 5,
+            "index": 5,
+            "name": "Same",
             "tubes": {
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603a2be9": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603b86a2": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603d4856": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8cce4edeb3c7": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },
@@ -4707,13 +4783,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "brightness": 78,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 255,
+            "speed_factor": 10
         },
         "config2": {
             "brightness": 0,
@@ -4725,30 +4801,74 @@
             "speed_factor": 0
         },
         "dmx_config": [
+            64,
+            253,
+            64,
+            210,
+            43,
+            127,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            51,
             0
         ],
         "group_mode": 0,
         "id": 54,
-        "name": "<none>",
+        "name": "test",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -4857,7 +4977,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1667510881,
         "colors": [
         ],
         "config1": {
@@ -4888,9 +5008,9 @@
             0,
             0,
             0,
-            0
+            212
         ],
-        "group_mode": 0,
+        "group_mode": 1630744630,
         "id": 56,
         "name": "delays",
         "tubepresets": {
@@ -5651,39 +5771,15 @@
         ],
         "color_mode": 0,
         "colors": [
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
-            ],
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
-            ],
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
-            ]
         ],
         "config1": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 5,
-            "parameter2": 5,
-            "parameter3": 100,
-            "speed_factor": 5
+            "brightness": 156,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 255,
+            "speed_factor": 10
         },
         "config2": {
             "brightness": 0,
@@ -5695,20 +5791,576 @@
             "speed_factor": 0
         },
         "dmx_config": [
-            170,
-            246,
-            66,
-            130,
-            124,
-            85,
             0,
             0,
-            160,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
         ],
         "group_mode": 0,
         "id": 64,
-        "name": "xxxx",
+        "name": "AR Spkl 1",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 5,
+            "index": 5,
+            "name": "Same",
+            "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 166,
+            "led_mode": 6,
+            "modifiers": 0,
+            "parameter1": 1,
+            "parameter2": 1,
+            "parameter3": 1,
+            "speed_factor": 33
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "dmx_config": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "group_mode": 0,
+        "id": 65,
+        "name": "AR Sparkle 2",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 5,
+            "index": 5,
+            "name": "Same",
+            "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 230,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 255,
+            "speed_factor": 1
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "dmx_config": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "group_mode": 0,
+        "id": 66,
+        "name": "AR Delay",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 13,
+            "index": 13,
+            "name": "T&S Delay",
+            "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 1
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 1
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 1
+                },
+                "24a1603acfd8": {
+                    "delay": 150,
+                    "group": 2
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603b86a2": {
+                    "delay": 150,
+                    "group": 2
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 1
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 1
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 2
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 1
+                },
+                "8cce4ee1c707": {
+                    "delay": 75,
+                    "group": 2
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 130,
+            "led_mode": 18,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 164,
+            "speed_factor": 217
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "dmx_config": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "group_mode": 0,
+        "id": 67,
+        "name": "AR Spkl Trippy",
+        "tubepresets": {
+            "button_color": [
+                0,
+                255,
+                38
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "Short delay",
+            "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 252,
+            "led_mode": 12,
+            "modifiers": 0,
+            "parameter1": 240,
+            "parameter2": 10,
+            "parameter3": 1,
+            "speed_factor": 3
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "dmx_config": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "group_mode": 0,
+        "id": 68,
+        "name": "Glitter",
         "tubepresets": {
             "button_color": [
                 0,
@@ -5806,226 +6458,6 @@
             0
         ],
         "group_mode": 0,
-        "id": 65,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "dmx_config": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "group_mode": 0,
-        "id": 66,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "dmx_config": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "group_mode": 0,
-        "id": 67,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "dmx_config": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "group_mode": 0,
-        "id": 68,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "dmx_config": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "group_mode": 0,
         "id": 69,
         "name": "<none>",
         "tubepresets": {
@@ -6051,13 +6483,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 0,
+            "led_mode": 12,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 240,
+            "parameter2": 92,
+            "parameter3": 1,
+            "speed_factor": 3
         },
         "config2": {
             "brightness": 0,
@@ -6075,24 +6507,68 @@
             0,
             0,
             0,
+            38,
             0,
-            0,
-            0,
+            110,
             0
         ],
         "group_mode": 0,
         "id": 70,
-        "name": "<none>",
+        "name": "Laser Red",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -6106,13 +6582,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 0,
+            "led_mode": 12,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 240,
+            "parameter2": 92,
+            "parameter3": 1,
+            "speed_factor": 3
         },
         "config2": {
             "brightness": 0,
@@ -6130,44 +6606,88 @@
             0,
             0,
             0,
+            59,
             0,
-            0,
-            0,
+            70,
             0
         ],
         "group_mode": 0,
         "id": 71,
-        "name": "<none>",
+        "name": "Laser Green",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
     {
         "button_color": [
-            0,
-            0,
-            0
+            255,
+            255,
+            255
         ],
         "color_mode": 0,
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 0,
+            "led_mode": 12,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 1,
+            "speed_factor": 9
         },
         "config2": {
             "brightness": 0,
@@ -6181,9 +6701,9 @@
         "dmx_config": [
             0,
             0,
+            62,
             0,
-            0,
-            0,
+            194,
             0,
             0,
             0,
@@ -6192,17 +6712,61 @@
         ],
         "group_mode": 0,
         "id": 72,
-        "name": "<none>",
+        "name": "Derby white",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -6216,13 +6780,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 252,
+            "led_mode": 12,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 1,
+            "speed_factor": 9
         },
         "config2": {
             "brightness": 0,
@@ -6236,9 +6800,9 @@
         "dmx_config": [
             0,
             0,
-            0,
-            0,
-            0,
+            53,
+            85,
+            194,
             0,
             0,
             0,
@@ -6247,17 +6811,61 @@
         ],
         "group_mode": 0,
         "id": 73,
-        "name": "<none>",
+        "name": "Glit Derb White Flash",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -6271,13 +6879,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 242,
+            "led_mode": 12,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 240,
+            "parameter2": 92,
+            "parameter3": 1,
+            "speed_factor": 3
         },
         "config2": {
             "brightness": 0,
@@ -6302,17 +6910,101 @@
         ],
         "group_mode": 0,
         "id": 74,
-        "name": "<none>",
+        "name": "AR Spkl Laser Red",
         "tubepresets": {
             "button_color": [
                 0,
                 0,
                 0
             ],
-            "id": 0,
-            "index": 0,
-            "name": "",
+            "id": 5,
+            "index": 5,
+            "name": "Same",
             "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },
@@ -6324,15 +7016,39 @@
         ],
         "color_mode": 0,
         "colors": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ]
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
+            "brightness": 0,
+            "led_mode": 4,
             "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "parameter1": 1,
+            "parameter2": 1,
+            "parameter3": 1,
+            "speed_factor": 63
         },
         "config2": {
             "brightness": 0,
@@ -6344,30 +7060,114 @@
             "speed_factor": 0
         },
         "dmx_config": [
+            64,
+            253,
+            32,
+            190,
+            207,
+            127,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            51,
             0
         ],
         "group_mode": 0,
         "id": 75,
-        "name": "<none>",
+        "name": "duck",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short delay",
             "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },
@@ -6381,13 +7181,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "brightness": 252,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 255,
+            "speed_factor": 1
         },
         "config2": {
             "brightness": 0,
@@ -6401,9 +7201,9 @@
         "dmx_config": [
             0,
             0,
-            0,
-            0,
-            0,
+            15,
+            58,
+            207,
             0,
             0,
             0,
@@ -6412,17 +7212,61 @@
         ],
         "group_mode": 0,
         "id": 76,
-        "name": "<none>",
+        "name": "AR Sparkle 3 Derby RED",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -6436,13 +7280,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "brightness": 252,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 1,
+            "parameter2": 1,
+            "parameter3": 255,
+            "speed_factor": 3
         },
         "config2": {
             "brightness": 0,
@@ -6456,9 +7300,9 @@
         "dmx_config": [
             0,
             0,
-            0,
-            0,
-            0,
+            107,
+            132,
+            168,
             0,
             0,
             0,
@@ -6467,17 +7311,61 @@
         ],
         "group_mode": 0,
         "id": 77,
-        "name": "<none>",
+        "name": "AR Spkl3 Derb Red Flsh",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short Delays",
             "tubes": {
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
             }
         }
     },
@@ -6546,13 +7434,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "brightness": 230,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 20,
+            "parameter2": 10,
+            "parameter3": 255,
+            "speed_factor": 1
         },
         "config2": {
             "brightness": 0,
@@ -6577,17 +7465,93 @@
         ],
         "group_mode": 0,
         "id": 79,
-        "name": "<none>",
+        "name": "test",
         "tubepresets": {
             "button_color": [
                 0,
                 0,
                 0
             ],
-            "id": 0,
-            "index": 0,
-            "name": "",
+            "id": 13,
+            "index": 13,
+            "name": "T&S Delay",
             "tubes": {
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 1
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 1
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 1
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 2
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 2
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 2
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 1
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 1
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 2
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 1
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 2
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },

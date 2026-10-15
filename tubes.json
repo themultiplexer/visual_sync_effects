@@ -7,8 +7,16 @@
         ],
         "id": 0,
         "index": 0,
-        "name": "Short Delays",
+        "name": "Short delay",
         "tubes": {
+            "146393703c50": {
+                "delay": 0,
+                "group": 0
+            },
+            "24a1603a28d4": {
+                "delay": 0,
+                "group": 0
+            },
             "24a1603a2be9": {
                 "delay": 40,
                 "group": 0
@@ -21,12 +29,20 @@
                 "delay": 40,
                 "group": 0
             },
-            "24a1603d4856": {
+            "24a1603acfd8": {
+                "delay": 250,
+                "group": 0
+            },
+            "24a1603b7184": {
+                "delay": 0,
+                "group": 0
+            },
+            "24a1603b86a2": {
                 "delay": 80,
                 "group": 0
             },
-            "24a1603d864a": {
-                "delay": 0,
+            "24a1603d4856": {
+                "delay": 80,
                 "group": 0
             },
             "24a1603d872f": {
@@ -37,12 +53,24 @@
                 "delay": 120,
                 "group": 0
             },
-            "60019496c44a": {
+            "24a1603d8d2b": {
+                "delay": 75,
+                "group": 0
+            },
+            "3c8a1f435a91": {
+                "delay": 0,
+                "group": 1
+            },
+            "8856a63af2e8": {
                 "delay": 0,
                 "group": 0
             },
             "8cce4edeb3c7": {
                 "delay": 80,
+                "group": 0
+            },
+            "8cce4ee1c707": {
+                "delay": 100,
                 "group": 0
             },
             "8cce4ee1df2e": {
@@ -52,6 +80,18 @@
             "8cce4ee36bed": {
                 "delay": 0,
                 "group": 0
+            },
+            "e08cfe33c9dc": {
+                "delay": 0,
+                "group": 0
+            },
+            "fcf5c4b340f4": {
+                "delay": 0,
+                "group": 1
+            },
+            "fcf5c4bec62c": {
+                "delay": 0,
+                "group": 1
             }
         }
     },
@@ -289,9 +329,13 @@
         "index": 5,
         "name": "Same",
         "tubes": {
+            "146393703c50": {
+                "delay": 0,
+                "group": 0
+            },
             "24a1603a28d4": {
                 "delay": 0,
-                "group": 2
+                "group": 0
             },
             "24a1603a2be9": {
                 "delay": 0,
@@ -307,15 +351,15 @@
             },
             "24a1603acfd8": {
                 "delay": 0,
-                "group": 2
+                "group": 0
             },
             "24a1603b7184": {
                 "delay": 0,
-                "group": 2
+                "group": 0
             },
             "24a1603b86a2": {
                 "delay": 0,
-                "group": 2
+                "group": 0
             },
             "24a1603d4856": {
                 "delay": 0,
@@ -331,11 +375,15 @@
             },
             "24a1603d8d2b": {
                 "delay": 0,
-                "group": 2
+                "group": 0
             },
             "3c8a1f435a91": {
                 "delay": 0,
                 "group": 1
+            },
+            "8856a63af2e8": {
+                "delay": 0,
+                "group": 0
             },
             "8cce4edeb3c7": {
                 "delay": 0,
@@ -343,7 +391,7 @@
             },
             "8cce4ee1c707": {
                 "delay": 0,
-                "group": 2
+                "group": 0
             },
             "8cce4ee1df2e": {
                 "delay": 0,
@@ -801,6 +849,10 @@
         "index": 13,
         "name": "T&S Delay",
         "tubes": {
+            "146393703c50": {
+                "delay": 0,
+                "group": 0
+            },
             "24a1603a28d4": {
                 "delay": 0,
                 "group": 2
@@ -818,7 +870,7 @@
                 "group": 1
             },
             "24a1603acfd8": {
-                "delay": 250,
+                "delay": 150,
                 "group": 2
             },
             "24a1603b7184": {
@@ -826,7 +878,7 @@
                 "group": 2
             },
             "24a1603b86a2": {
-                "delay": 80,
+                "delay": 150,
                 "group": 2
             },
             "24a1603d4856": {
@@ -849,12 +901,16 @@
                 "delay": 0,
                 "group": 1
             },
+            "8856a63af2e8": {
+                "delay": 0,
+                "group": 0
+            },
             "8cce4edeb3c7": {
                 "delay": 80,
                 "group": 1
             },
             "8cce4ee1c707": {
-                "delay": 100,
+                "delay": 75,
                 "group": 2
             },
             "8cce4ee1df2e": {
