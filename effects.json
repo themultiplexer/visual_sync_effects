@@ -5,7 +5,7 @@
             0,
             255
         ],
-        "color_mode": 1680764526,
+        "color_mode": 979725665,
         "colors": [
         ],
         "config1": {
@@ -28,7 +28,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 1634561896,
+        "group_mode": 1310728820,
         "id": 0,
         "name": "Sparkle",
         "tubepresets": {
@@ -94,7 +94,7 @@
             255,
             0
         ],
-        "color_mode": 1701588835,
+        "color_mode": 979725665,
         "colors": [
         ],
         "config1": {
@@ -117,7 +117,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 1702132082,
+        "group_mode": 1310728820,
         "id": 1,
         "name": "[AR] Sparkle",
         "tubepresets": {
@@ -191,7 +191,7 @@
             19,
             255
         ],
-        "color_mode": 160,
+        "color_mode": -1985982307,
         "colors": [
         ],
         "config1": {
@@ -214,7 +214,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22067,
+        "group_mode": 0,
         "id": 2,
         "name": "[AR] NEON!",
         "tubepresets": {
@@ -320,7 +320,7 @@
             252,
             211
         ],
-        "color_mode": 96,
+        "color_mode": 518888240,
         "colors": [
         ],
         "config1": {
@@ -343,7 +343,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 21896,
         "id": 3,
         "name": "Glitter",
         "tubepresets": {
@@ -409,7 +409,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 519052632,
         "colors": [
         ],
         "config1": {
@@ -432,7 +432,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 21896,
         "id": 4,
         "name": "Organic Fire",
         "tubepresets": {
@@ -587,7 +587,7 @@
             85,
             0
         ],
-        "color_mode": 726319220,
+        "color_mode": 519786736,
         "colors": [
         ],
         "config1": {
@@ -610,7 +610,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 32629,
+        "group_mode": 21896,
         "id": 6,
         "name": "Reversed Fire",
         "tubepresets": {
@@ -5842,6 +5842,8 @@
         },
         "fixtures": [
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -5947,6 +5949,8 @@
         },
         "fixtures": [
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -6052,6 +6056,8 @@
         },
         "fixtures": [
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -6068,7 +6074,7 @@
                 ]
             }
         ],
-        "group_mode": 22067,
+        "group_mode": 21896,
         "id": 72,
         "name": "Derby white",
         "tubepresets": {
@@ -6157,6 +6163,8 @@
         },
         "fixtures": [
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -6262,7 +6270,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22067,
+        "group_mode": 21896,
         "id": 74,
         "name": "AR Spkl Laser Red",
         "tubepresets": {
@@ -6609,6 +6617,8 @@
         },
         "fixtures": [
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -6714,6 +6724,8 @@
         },
         "fixtures": [
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -6730,6 +6742,8 @@
                 ]
             },
             {
+                "address": 1809833080,
+                "group": 160,
                 "mode": "9-channel",
                 "name": "Razor Derby LED Effect",
                 "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
@@ -6875,7 +6889,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22067,
+        "group_mode": 21896,
         "id": 79,
         "name": "test",
         "tubepresets": {
@@ -6977,13 +6991,13 @@
         "colors": [
         ],
         "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
+            "brightness": 252,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 1,
+            "parameter2": 1,
+            "parameter3": 255,
+            "speed_factor": 3
         },
         "config2": {
             "brightness": 0,
@@ -6995,20 +7009,271 @@
             "speed_factor": 0
         },
         "fixtures": [
+            {
+                "address": 1809833080,
+                "group": 160,
+                "mode": "9-channel",
+                "name": "Razor Derby LED Effect",
+                "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
+                "values": [
+                    0,
+                    0,
+                    107,
+                    132,
+                    168,
+                    0,
+                    0,
+                    98,
+                    168
+                ]
+            }
         ],
-        "group_mode": 22067,
+        "group_mode": 21896,
         "id": 80,
-        "name": "<none>",
+        "name": "test1",
         "tubepresets": {
             "button_color": [
                 0,
                 0,
                 0
             ],
+            "id": 1,
+            "index": 1,
+            "name": "Accelerate",
+            "tubes": {
+                "24a1603a2be9": {
+                    "delay": 50,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 255,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 50,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "24a1603d864a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 255,
+                    "group": 0
+                },
+                "60019496c44a": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                }
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1937072757,
+        "colors": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "config1": {
+            "brightness": 252,
+            "led_mode": 6,
+            "modifiers": 128,
+            "parameter1": 1,
+            "parameter2": 1,
+            "parameter3": 255,
+            "speed_factor": 3
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+            {
+                "address": 1809833080,
+                "group": 160,
+                "mode": "9-channel",
+                "name": "Razor Derby LED Effect",
+                "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
+                "values": [
+                    36,
+                    0,
+                    107,
+                    132,
+                    168,
+                    0,
+                    0,
+                    98,
+                    168
+                ]
+            },
+            {
+                "address": 504,
+                "group": 149,
+                "mode": "9-channel",
+                "name": "Razor Derby LED Effect",
+                "path": "../open-fixture-library/fixtures/varytec/razor-derby.json",
+                "values": [
+                    36,
+                    0,
+                    107,
+                    132,
+                    168,
+                    0,
+                    0,
+                    98,
+                    168
+                ]
+            }
+        ],
+        "group_mode": 1752459623,
+        "id": 81,
+        "name": "test2",
+        "tubepresets": {
+            "button_color": [
+                0,
+                255,
+                38
+            ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short delay",
             "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },
@@ -7042,51 +7307,6 @@
         "fixtures": [
         ],
         "group_mode": 1752459623,
-        "id": 81,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 160,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 22067,
         "id": 82,
         "name": "<none>",
         "tubepresets": {
@@ -7131,7 +7351,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22067,
+        "group_mode": 21896,
         "id": 83,
         "name": "<none>",
         "tubepresets": {
@@ -7198,7 +7418,7 @@
             0,
             0
         ],
-        "color_mode": 572530720,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -7221,7 +7441,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 538976266,
+        "group_mode": 21896,
         "id": 85,
         "name": "<none>",
         "tubepresets": {
@@ -7243,7 +7463,7 @@
             0,
             0
         ],
-        "color_mode": 174421362,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -7266,7 +7486,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 1948269090,
+        "group_mode": 21896,
         "id": 86,
         "name": "<none>",
         "tubepresets": {
@@ -7288,7 +7508,7 @@
             0,
             0
         ],
-        "color_mode": 170679584,
+        "color_mode": 1937072757,
         "colors": [
         ],
         "config1": {
@@ -7311,7 +7531,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 538976288,
+        "group_mode": 1752459623,
         "id": 87,
         "name": "<none>",
         "tubepresets": {
@@ -7333,7 +7553,7 @@
             0,
             0
         ],
-        "color_mode": 538970668,
+        "color_mode": 1377968186,
         "colors": [
         ],
         "config1": {
@@ -7356,7 +7576,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 1562386464,
+        "group_mode": 578055781,
         "id": 88,
         "name": "<none>",
         "tubepresets": {
@@ -7378,7 +7598,7 @@
             0,
             0
         ],
-        "color_mode": 807608864,
+        "color_mode": 1667589734,
         "colors": [
         ],
         "config1": {
@@ -7401,7 +7621,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 538976288,
+        "group_mode": 1165124980,
         "id": 89,
         "name": "<none>",
         "tubepresets": {
@@ -7423,7 +7643,7 @@
             0,
             0
         ],
-        "color_mode": 538970668,
+        "color_mode": 1769236844,
         "colors": [
         ],
         "config1": {
@@ -7446,323 +7666,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 578053491,
+        "group_mode": 1768055152,
         "id": 90,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 537537590,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 842080288,
-        "id": 91,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 1702127976,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 1998596896,
-        "id": 92,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 1528838690,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 1936879468,
-        "id": 93,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 2065702944,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 538976288,
-        "id": 94,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 1952671078,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 1717903904,
-        "id": 95,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 1632794733,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 1679958048,
-        "id": 96,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 572530720,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 538976266,
-        "id": 97,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -7807,7 +7712,7 @@
         "fixtures": [
         ],
         "group_mode": 538976288,
-        "id": 98,
+        "id": 91,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -7828,7 +7733,52 @@
             0,
             0
         ],
-        "color_mode": 537557792,
+        "color_mode": 1751333154,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 540680805,
+        "id": 92,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 2020434978,
         "colors": [
         ],
         "config1": {
@@ -7852,6 +7802,276 @@
         "fixtures": [
         ],
         "group_mode": 538976288,
+        "id": 93,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 538976288,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 170687776,
+        "id": 94,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1852142702,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 1868788325,
+        "id": 95,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1948282473,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 543450473,
+        "id": 96,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 538976266,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 741355808,
+        "id": 97,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1919239202,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 540680805,
+        "id": 98,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 538976288,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 537540913,
         "id": 99,
         "name": "<none>",
         "tubepresets": {
@@ -7867,13 +8087,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1667589734,
         "colors": [
         ],
         "config1": {
@@ -7896,8 +8116,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1159864378,
+        "id": 100,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -7912,13 +8132,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 170668064,
         "colors": [
         ],
         "config1": {
@@ -7941,8 +8161,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 101,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -7957,13 +8177,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1936028240,
         "colors": [
         ],
         "config1": {
@@ -7986,8 +8206,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1919904879,
+        "id": 102,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8002,13 +8222,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1702061426,
         "colors": [
         ],
         "config1": {
@@ -8031,8 +8251,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1349676908,
+        "id": 103,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8047,13 +8267,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 170679584,
         "colors": [
         ],
         "config1": {
@@ -8076,8 +8296,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 104,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8092,13 +8312,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8121,8 +8341,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 105,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8137,13 +8357,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976266,
         "colors": [
         ],
         "config1": {
@@ -8166,8 +8386,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 744300576,
+        "id": 106,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8182,13 +8402,13 @@
             }
         }
     },
-        {
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 577991279,
         "colors": [
         ],
         "config1": {
@@ -8211,8 +8431,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1819239202,
+        "id": 107,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8226,13 +8446,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8255,8 +8476,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 108,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8270,13 +8491,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 808478310,
         "colors": [
         ],
         "config1": {
@@ -8299,8 +8521,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 589439008,
+        "id": 109,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8314,13 +8536,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976266,
         "colors": [
         ],
         "config1": {
@@ -8343,8 +8566,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 741421874,
+        "id": 110,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8358,13 +8581,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8387,8 +8611,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976266,
+        "id": 111,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8402,13 +8626,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 578055781,
         "colors": [
         ],
         "config1": {
@@ -8431,8 +8656,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1835888483,
+        "id": 112,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8446,13 +8671,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8475,8 +8701,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 113,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8490,13 +8716,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1931616288,
         "colors": [
         ],
         "config1": {
@@ -8519,8 +8746,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 114,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8534,13 +8761,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 573775982,
         "colors": [
         ],
         "config1": {
@@ -8563,8 +8791,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1919251572,
+        "id": 115,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8578,13 +8806,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701667150,
         "colors": [
         ],
         "config1": {
@@ -8607,8 +8836,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1952671078,
+        "id": 116,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8622,13 +8851,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8651,8 +8881,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976266,
+        "id": 117,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8666,13 +8896,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1715806752,
         "colors": [
         ],
         "config1": {
@@ -8695,8 +8926,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 975332720,
+        "id": 118,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8710,13 +8941,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538970668,
         "colors": [
         ],
         "config1": {
@@ -8739,8 +8971,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1562386464,
+        "id": 119,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8754,13 +8986,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8783,8 +9016,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 120,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8798,13 +9031,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8827,8 +9061,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 121,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8842,13 +9076,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1679958048,
         "colors": [
         ],
         "config1": {
@@ -8871,8 +9106,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 122,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8886,13 +9121,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976266,
         "colors": [
         ],
         "config1": {
@@ -8915,8 +9151,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 2099257376,
+        "id": 123,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8930,13 +9166,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -8959,8 +9196,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 537535024,
+        "id": 124,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8974,13 +9211,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -9003,8 +9241,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 537537570,
+        "id": 125,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -9018,13 +9256,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -9047,8 +9286,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 126,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -9062,13 +9301,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1869771891,
         "colors": [
         ],
         "config1": {
@@ -9091,8 +9331,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 540765797,
+        "id": 127,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -9106,13 +9346,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538970668,
         "colors": [
         ],
         "config1": {
@@ -9135,8 +9376,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 577069679,
+        "id": 128,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -9150,13 +9391,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 2065702944,
         "colors": [
         ],
         "config1": {
@@ -9179,8 +9421,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 129,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -9194,13 +9436,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 538976288,
         "colors": [
         ],
         "config1": {
@@ -9223,8 +9466,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 538976288,
+        "id": 130,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -9238,13 +9481,14 @@
             "tubes": {
             }
         }
-    },    {
+    },
+    {
         "button_color": [
             0,
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701736033,
         "colors": [
         ],
         "config1": {
@@ -9267,2648 +9511,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 0,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 0,
-        "id": 69,
+        "group_mode": 1751327264,
+        "id": 131,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -11953,7 +9557,2662 @@
         "fixtures": [
         ],
         "group_mode": 0,
-        "id": 69,
+        "id": 132,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 133,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1627415653,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 1701860128,
+        "id": 134,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 96,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 135,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 96,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 136,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 137,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 138,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 139,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 140,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 141,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 142,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 143,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 144,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 145,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 146,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 147,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 148,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 149,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 150,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 151,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 152,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 153,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 154,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 155,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 156,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 157,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 158,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 159,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 160,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 161,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 162,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 163,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 164,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 165,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 166,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 167,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 168,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 169,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 170,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 171,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 172,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 173,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 174,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 175,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 176,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 177,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 178,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 179,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 180,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 181,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 182,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 183,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 184,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 185,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 186,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 187,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 188,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 189,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 190,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 0,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 0,
+        "id": 191,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
