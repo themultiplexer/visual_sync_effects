@@ -191,7 +191,7 @@
             19,
             255
         ],
-        "color_mode": -1574935456,
+        "color_mode": 1997586548,
         "colors": [
         ],
         "config1": {
@@ -214,7 +214,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22057,
+        "group_mode": 32519,
         "id": 2,
         "name": "[AR] NEON!",
         "tubepresets": {
@@ -320,7 +320,7 @@
             252,
             211
         ],
-        "color_mode": 33620737,
+        "color_mode": -2096962720,
         "colors": [
         ],
         "config1": {
@@ -343,7 +343,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 66569,
+        "group_mode": 22053,
         "id": 3,
         "name": "Glitter",
         "tubepresets": {
@@ -409,7 +409,7 @@
             0,
             0
         ],
-        "color_mode": -1575677072,
+        "color_mode": -2097245040,
         "colors": [
         ],
         "config1": {
@@ -432,7 +432,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22057,
+        "group_mode": 22053,
         "id": 4,
         "name": "Organic Fire",
         "tubepresets": {
@@ -498,7 +498,7 @@
             0,
             0
         ],
-        "color_mode": 35918337,
+        "color_mode": 33620737,
         "colors": [
         ],
         "config1": {
@@ -521,7 +521,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 16933466,
+        "group_mode": 66569,
         "id": 5,
         "name": "Same Fire",
         "tubepresets": {
@@ -587,7 +587,7 @@
             85,
             0
         ],
-        "color_mode": 509509748,
+        "color_mode": 35918337,
         "colors": [
         ],
         "config1": {
@@ -610,7 +610,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 32513,
+        "group_mode": 16933466,
         "id": 6,
         "name": "Reversed Fire",
         "tubepresets": {
@@ -5862,7 +5862,7 @@
                 ]
             }
         ],
-        "group_mode": 22057,
+        "group_mode": 22053,
         "id": 70,
         "name": "Laser Red",
         "tubepresets": {
@@ -6536,7 +6536,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22057,
+        "group_mode": 22053,
         "id": 76,
         "name": "AR Sparkle 3 Derby RED",
         "tubepresets": {
@@ -6645,7 +6645,7 @@
                 ]
             }
         ],
-        "group_mode": 22057,
+        "group_mode": 22053,
         "id": 77,
         "name": "AR Spkl3 Derb Red Flsh",
         "tubepresets": {
@@ -6903,7 +6903,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 22057,
+        "group_mode": 22053,
         "id": 79,
         "name": "test",
         "tubepresets": {
@@ -7617,31 +7617,31 @@
             0,
             0
         ],
-        "color_mode": 1953851475,
+        "color_mode": 96,
         "colors": [
             [
-                0.800000011920929,
+                0,
                 1
             ],
             [
-                0.20000000298023224,
+                0,
+                0
+            ],
+            [
+                0,
                 1
             ],
             [
-                0.800000011920929,
+                0,
+                0
+            ],
+            [
+                0,
                 1
             ],
             [
-                0.20000000298023224,
-                1
-            ],
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
+                0,
+                0
             ]
         ],
         "config1": {
@@ -7670,10 +7670,10 @@
                 "mode": "6-channel",
                 "name": "SonicPulse LED Bar 10",
                 "path": "../open-fixture-library/fixtures/stairville/sonicpulse-led-bar-10.json",
-                "program": 1,
+                "program": 2,
                 "values": [
                     116,
-                    215
+                    0
                 ]
             }
         ],
@@ -7785,30 +7785,6 @@
         ],
         "color_mode": 96,
         "colors": [
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
-            ],
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
-            ],
-            [
-                0.800000011920929,
-                1
-            ],
-            [
-                0.20000000298023224,
-                1
-            ]
         ],
         "config1": {
             "brightness": 10,
@@ -7949,32 +7925,8 @@
             0,
             0
         ],
-        "color_mode": 1953851475,
+        "color_mode": 96,
         "colors": [
-            [
-                0,
-                1
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                1
-            ],
-            [
-                0,
-                0
-            ],
-            [
-                0,
-                1
-            ],
-            [
-                0,
-                0
-            ]
         ],
         "config1": {
             "brightness": 10,
@@ -8113,6 +8065,172 @@
             0,
             0
         ],
+        "color_mode": 1937072757,
+        "colors": [
+            [
+                0.800000011920929,
+                1
+            ],
+            [
+                0.20000000298023224,
+                1
+            ],
+            [
+                0.800000011920929,
+                1
+            ],
+            [
+                0.20000000298023224,
+                1
+            ],
+            [
+                0.800000011920929,
+                1
+            ],
+            [
+                0.20000000298023224,
+                1
+            ]
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+            {
+                "address": 0,
+                "delay": 0,
+                "group": 0,
+                "mode": "6-channel",
+                "name": "SonicPulse LED Bar 10",
+                "path": "../open-fixture-library/fixtures/stairville/sonicpulse-led-bar-10.json",
+                "program": 1,
+                "values": [
+                    116,
+                    255
+                ]
+            }
+        ],
+        "group_mode": 1752459623,
+        "id": 87,
+        "name": "Bars Strobe",
+        "tubepresets": {
+            "button_color": [
+                0,
+                255,
+                38
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "Short delay",
+            "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
         "color_mode": 96,
         "colors": [
         ],
@@ -8135,65 +8253,117 @@
             "speed_factor": 0
         },
         "fixtures": [
+            {
+                "address": 0,
+                "delay": 0,
+                "group": 0,
+                "mode": "6-channel",
+                "name": "SonicPulse LED Bar 10",
+                "path": "../open-fixture-library/fixtures/stairville/sonicpulse-led-bar-10.json",
+                "program": 3,
+                "values": [
+                    116,
+                    255
+                ]
+            }
         ],
         "group_mode": 0,
-        "id": 87,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 1937072757,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 1752459623,
         "id": 88,
-        "name": "<none>",
+        "name": "Strobe Drop",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short delay",
             "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },
@@ -8203,7 +8373,7 @@
             0,
             0
         ],
-        "color_mode": 7602296,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -8225,20 +8395,117 @@
             "speed_factor": 0
         },
         "fixtures": [
+            {
+                "address": 0,
+                "delay": 0,
+                "group": 0,
+                "mode": "6-channel",
+                "name": "SonicPulse LED Bar 10",
+                "path": "../open-fixture-library/fixtures/stairville/sonicpulse-led-bar-10.json",
+                "program": 3,
+                "values": [
+                    116,
+                    0
+                ]
+            }
         ],
-        "group_mode": 6881382,
+        "group_mode": 0,
         "id": 89,
-        "name": "<none>",
+        "name": "Drop",
         "tubepresets": {
             "button_color": [
                 0,
-                0,
-                0
+                255,
+                38
             ],
             "id": 0,
             "index": 0,
-            "name": "",
+            "name": "Short delay",
             "tubes": {
+                "146393703c50": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a28d4": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603a2be9": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603aa2dc": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603acf56": {
+                    "delay": 40,
+                    "group": 0
+                },
+                "24a1603acfd8": {
+                    "delay": 250,
+                    "group": 0
+                },
+                "24a1603b7184": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603b86a2": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d4856": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "24a1603d872f": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "24a1603d8b0a": {
+                    "delay": 120,
+                    "group": 0
+                },
+                "24a1603d8d2b": {
+                    "delay": 75,
+                    "group": 0
+                },
+                "3c8a1f435a91": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "8856a63af2e8": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4edeb3c7": {
+                    "delay": 80,
+                    "group": 0
+                },
+                "8cce4ee1c707": {
+                    "delay": 100,
+                    "group": 0
+                },
+                "8cce4ee1df2e": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "8cce4ee36bed": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "e08cfe33c9dc": {
+                    "delay": 0,
+                    "group": 0
+                },
+                "fcf5c4b340f4": {
+                    "delay": 0,
+                    "group": 1
+                },
+                "fcf5c4bec62c": {
+                    "delay": 0,
+                    "group": 1
+                }
             }
         }
     },
@@ -8248,7 +8515,7 @@
             0,
             0
         ],
-        "color_mode": 1463961426,
+        "color_mode": 1953851475,
         "colors": [
         ],
         "config1": {
@@ -8293,7 +8560,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -8338,7 +8605,7 @@
             0,
             0
         ],
-        "color_mode": 101,
+        "color_mode": 1953851475,
         "colors": [
         ],
         "config1": {
@@ -8361,53 +8628,8 @@
         },
         "fixtures": [
         ],
-        "group_mode": 1835093620,
+        "group_mode": 0,
         "id": 92,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 46,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 22060,
-        "id": 93,
         "name": "<none>",
         "tubepresets": {
             "button_color": [
@@ -8452,6 +8674,51 @@
         "fixtures": [
         ],
         "group_mode": 0,
+        "id": 93,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1937072757,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 1752459623,
         "id": 94,
         "name": "<none>",
         "tubepresets": {
@@ -8473,7 +8740,52 @@
             0,
             0
         ],
-        "color_mode": 11,
+        "color_mode": 7602296,
+        "colors": [
+        ],
+        "config1": {
+            "brightness": 10,
+            "led_mode": 1,
+            "modifiers": 0,
+            "parameter1": 7,
+            "parameter2": 6,
+            "parameter3": 6,
+            "speed_factor": 4
+        },
+        "config2": {
+            "brightness": 0,
+            "led_mode": 0,
+            "modifiers": 0,
+            "parameter1": 0,
+            "parameter2": 0,
+            "parameter3": 0,
+            "speed_factor": 0
+        },
+        "fixtures": [
+        ],
+        "group_mode": 6881382,
+        "id": 95,
+        "name": "<none>",
+        "tubepresets": {
+            "button_color": [
+                0,
+                0,
+                0
+            ],
+            "id": 0,
+            "index": 0,
+            "name": "",
+            "tubes": {
+            }
+        }
+    },
+    {
+        "button_color": [
+            0,
+            0,
+            0
+        ],
+        "color_mode": 1920229741,
         "colors": [
         ],
         "config1": {
@@ -8497,51 +8809,6 @@
         "fixtures": [
         ],
         "group_mode": 0,
-        "id": 95,
-        "name": "<none>",
-        "tubepresets": {
-            "button_color": [
-                0,
-                0,
-                0
-            ],
-            "id": 0,
-            "index": 0,
-            "name": "",
-            "tubes": {
-            }
-        }
-    },
-    {
-        "button_color": [
-            0,
-            0,
-            0
-        ],
-        "color_mode": 1768445728,
-        "colors": [
-        ],
-        "config1": {
-            "brightness": 10,
-            "led_mode": 1,
-            "modifiers": 0,
-            "parameter1": 7,
-            "parameter2": 6,
-            "parameter3": 6,
-            "speed_factor": 4
-        },
-        "config2": {
-            "brightness": 0,
-            "led_mode": 0,
-            "modifiers": 0,
-            "parameter1": 0,
-            "parameter2": 0,
-            "parameter3": 0,
-            "speed_factor": 0
-        },
-        "fixtures": [
-        ],
-        "group_mode": 1463961426,
         "id": 96,
         "name": "<none>",
         "tubepresets": {
@@ -8698,7 +8965,7 @@
             0,
             0
         ],
-        "color_mode": 273,
+        "color_mode": 1967550286,
         "colors": [
         ],
         "config1": {
@@ -8743,7 +9010,7 @@
             0,
             0
         ],
-        "color_mode": 1463961426,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -8788,7 +9055,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -8833,7 +9100,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": -2095419712,
         "colors": [
         ],
         "config1": {
@@ -8856,7 +9123,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 103,
         "name": "<none>",
         "tubepresets": {
@@ -8878,7 +9145,7 @@
             0,
             0
         ],
-        "color_mode": 96,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -8923,7 +9190,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1383624036,
         "colors": [
         ],
         "config1": {
@@ -8968,7 +9235,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9013,7 +9280,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1383624036,
         "colors": [
         ],
         "config1": {
@@ -9058,7 +9325,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -9103,7 +9370,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9148,7 +9415,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9238,7 +9505,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -9283,7 +9550,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9373,7 +9640,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -9418,7 +9685,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701080909,
         "colors": [
         ],
         "config1": {
@@ -9463,7 +9730,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 128,
         "colors": [
         ],
         "config1": {
@@ -9486,7 +9753,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 117,
         "name": "<none>",
         "tubepresets": {
@@ -9508,7 +9775,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -9553,7 +9820,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": -2095469296,
         "colors": [
         ],
         "config1": {
@@ -9576,7 +9843,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 119,
         "name": "<none>",
         "tubepresets": {
@@ -9598,7 +9865,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9643,7 +9910,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": -2095433648,
         "colors": [
         ],
         "config1": {
@@ -9666,7 +9933,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 121,
         "name": "<none>",
         "tubepresets": {
@@ -9688,7 +9955,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9733,7 +10000,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9823,7 +10090,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -9868,7 +10135,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -9913,7 +10180,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -9958,7 +10225,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10048,7 +10315,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10093,7 +10360,7 @@
             0,
             0
         ],
-        "color_mode": 26,
+        "color_mode": 0,
         "colors": [
         ],
         "config1": {
@@ -10138,7 +10405,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10183,7 +10450,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10228,7 +10495,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10273,7 +10540,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10363,7 +10630,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 6,
         "colors": [
         ],
         "config1": {
@@ -10386,7 +10653,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 137,
         "name": "<none>",
         "tubepresets": {
@@ -10408,7 +10675,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -10431,7 +10698,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 138,
         "name": "<none>",
         "tubepresets": {
@@ -10453,7 +10720,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -10476,7 +10743,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 139,
         "name": "<none>",
         "tubepresets": {
@@ -10498,7 +10765,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10543,7 +10810,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 80,
         "colors": [
         ],
         "config1": {
@@ -10588,7 +10855,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10633,7 +10900,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10678,7 +10945,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10723,7 +10990,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10768,7 +11035,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10813,7 +11080,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10858,7 +11125,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10903,7 +11170,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -10948,7 +11215,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -10993,7 +11260,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -11038,7 +11305,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -11083,7 +11350,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -11128,7 +11395,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -11173,7 +11440,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -11218,7 +11485,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 80,
         "colors": [
         ],
         "config1": {
@@ -11263,7 +11530,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -11308,7 +11575,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -11331,7 +11598,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 158,
         "name": "<none>",
         "tubepresets": {
@@ -11353,7 +11620,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 80,
         "colors": [
         ],
         "config1": {
@@ -11398,7 +11665,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 6,
         "colors": [
         ],
         "config1": {
@@ -11421,7 +11688,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 160,
         "name": "<none>",
         "tubepresets": {
@@ -11443,7 +11710,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -11488,7 +11755,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -11511,7 +11778,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 162,
         "name": "<none>",
         "tubepresets": {
@@ -11533,7 +11800,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -11578,7 +11845,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 110,
         "colors": [
         ],
         "config1": {
@@ -11623,7 +11890,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -11668,7 +11935,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -11691,7 +11958,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 166,
         "name": "<none>",
         "tubepresets": {
@@ -11713,7 +11980,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 80,
         "colors": [
         ],
         "config1": {
@@ -11758,7 +12025,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -11848,7 +12115,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 277,
         "colors": [
         ],
         "config1": {
@@ -11893,7 +12160,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -11916,7 +12183,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 171,
         "name": "<none>",
         "tubepresets": {
@@ -11938,7 +12205,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": -2095359344,
         "colors": [
         ],
         "config1": {
@@ -11983,7 +12250,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 14,
         "colors": [
         ],
         "config1": {
@@ -12006,7 +12273,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 1700949874,
         "id": 173,
         "name": "<none>",
         "tubepresets": {
@@ -12028,7 +12295,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -12073,7 +12340,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": -2095486240,
         "colors": [
         ],
         "config1": {
@@ -12118,7 +12385,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1383624036,
         "colors": [
         ],
         "config1": {
@@ -12163,7 +12430,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -12253,7 +12520,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 277,
         "colors": [
         ],
         "config1": {
@@ -12298,7 +12565,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -12343,7 +12610,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -12388,7 +12655,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 840983908,
         "colors": [
         ],
         "config1": {
@@ -12411,7 +12678,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 1867325540,
         "id": 182,
         "name": "<none>",
         "tubepresets": {
@@ -12433,7 +12700,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 272,
         "colors": [
         ],
         "config1": {
@@ -12478,7 +12745,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701209669,
         "colors": [
         ],
         "config1": {
@@ -12523,7 +12790,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 3,
         "colors": [
         ],
         "config1": {
@@ -12546,7 +12813,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22048,
         "id": 185,
         "name": "<none>",
         "tubepresets": {
@@ -12568,7 +12835,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 840983908,
         "colors": [
         ],
         "config1": {
@@ -12591,7 +12858,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 1867325540,
         "id": 186,
         "name": "<none>",
         "tubepresets": {
@@ -12613,7 +12880,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 96,
         "colors": [
         ],
         "config1": {
@@ -12658,7 +12925,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 2,
         "colors": [
         ],
         "config1": {
@@ -12681,7 +12948,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 188,
         "name": "<none>",
         "tubepresets": {
@@ -12703,7 +12970,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 80,
         "colors": [
         ],
         "config1": {
@@ -12748,7 +13015,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 1701869940,
         "colors": [
         ],
         "config1": {
@@ -12793,7 +13060,7 @@
             0,
             0
         ],
-        "color_mode": 0,
+        "color_mode": 160,
         "colors": [
         ],
         "config1": {
@@ -12816,7 +13083,7 @@
         },
         "fixtures": [
         ],
-        "group_mode": 0,
+        "group_mode": 22053,
         "id": 191,
         "name": "<none>",
         "tubepresets": {
